@@ -5,7 +5,7 @@
       "Status": "Enabled",
       "Filter": {},
       "Expiration": {
-        "Days": 7
+        "Days": 5
       }
     }
   ]
